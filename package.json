@@ -1,0 +1,22 @@
+{
+  "name": "inversify_demo",
+  "version": "1.0.0",
+  "main": "./build/index.js",
+  "license": "MIT",
+  "scripts": {
+    "prestart": "npx tsc",
+    "start": "node ./build/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "inversify": "^6.0.2",
+    "reflect-metadata": "^0.2.2"
+  },
+  "engines": {
+    "node": ">=18 <=20.9",
+    "yarn": "~1.22.0"
+  },
+  "packageManager": "yarn@1.22.0"
+}
