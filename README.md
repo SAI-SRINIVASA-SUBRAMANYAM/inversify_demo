@@ -1,6 +1,6 @@
 # Steps to Create porject on your own:
 
-## Initialsing the project
+## Initializing the project
 
 > yarn init -y
 
