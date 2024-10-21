@@ -6,7 +6,7 @@
 
 > yarn tsc --init
 
-## Setup from scratch
+## Basic Setup
 
 > yarn add -D typescript
 
