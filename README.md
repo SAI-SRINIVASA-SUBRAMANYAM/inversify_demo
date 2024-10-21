@@ -14,7 +14,7 @@
 
 > yarn add inversify reflect-metadata --save
 
-## Compiling and Running the project
+## Compiling & Running
 
 > yarn install
 
